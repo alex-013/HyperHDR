@@ -32,6 +32,7 @@
 #include <QNetworkInterface>
 #include <QByteArray>
 #include <QElapsedTimer>
+#include <QtEndian>  
 #include <bit>
 #include <cstdint>
 #include <cstring>
